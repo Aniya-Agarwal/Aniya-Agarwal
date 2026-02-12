@@ -56,11 +56,3 @@
 </p> 
 
 ---
-
-## 📌 Currently Working On
-
-```text
-✔ Mastering DSA with Java
-✔ Strengthening OOP Concepts
-✔ Exploring AI/ML Basics
-✔ Building Logical Thinking Daily
